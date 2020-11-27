@@ -1,2 +1,2 @@
-# -js_algorithm_exercises
+# js_algorithm_exercises
  Record algorithm exercises base on javascript.
