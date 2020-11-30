@@ -6,6 +6,9 @@ Given a 32-bit signed integer, you need to reverse the digits on each bits in th
 
 ## Analyse
 
-## Time complexity
+## Complexity
 
-## Space complexity
+| Method Code | Time complexity | Space complexity | remark |
+| ----------- | --------------- | ---------------- | ------ |
+| method01    | `O(n)`          | `O(n)`           |        |
+| method02    | `O(n)`          | `O(1)`           |        |
