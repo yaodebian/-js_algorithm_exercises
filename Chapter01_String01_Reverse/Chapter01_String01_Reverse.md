@@ -12,3 +12,5 @@ Given a 32-bit signed integer, you need to reverse the digits on each bits in th
 | ----------- | --------------- | ---------------- | ------ |
 | method01    | `O(n)`          | `O(n)`           |        |
 | method02    | `O(n)`          | `O(1)`           |        |
+
+Max length of the num is 10. So we can also consider the time complexity or the space complexity is `O(1)`.
