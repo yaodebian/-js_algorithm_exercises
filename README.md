@@ -13,3 +13,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String02_Anagram](./Chapter01_String02_Anagram/Chapter01_String02_Anagram.md)
 
   Code: ./Chapter01_String02_Anagram/Chapter01_String02_Anagram.js
+
+- Chapter01_String03_Atoi:
+
+  Readme: [Chapter01_String03_Atoi](./Chapter01_String03_Atoi/Chapter01_String03_Atoi.md)
+
+  Code: ./Chapter01_String03_Atoi/Chapter01_String03_Atoi.js
