@@ -19,7 +19,7 @@ const isAnagram = (s, t) => {
 }
 
 // test
-console.log(isAnagram('anagram', 'nagaram')) // input: true
+console.log(isAnagram('anagram', 'nagaram')) // output: true
 
 
 // method 02
@@ -47,4 +47,4 @@ const isAnagram2 = (s, t) => {
 }
 
 // test
-console.log(isAnagram2('anagram', 'nagaram')) // input: true
+console.log(isAnagram2('anagram', 'nagaram')) // output: true
