@@ -1,4 +1,4 @@
-# Chapter01_String02_Anagram
+# Chapter01_String03_Atoi
 
 ## Question
 
@@ -42,5 +42,5 @@ output: -2147483648
 
 | Method Code | Time complexity | Space complexity | remark |
 | ----------- | --------------- | ---------------- | ------ |
-| method01    |                 |                  |        |
-| method02    |                 |                  |        |
+| method01    | O(1)            | O(1)             |        |
+| method02    | O(1)            | O(1)             |        |

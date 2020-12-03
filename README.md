@@ -19,3 +19,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String03_Atoi](./Chapter01_String03_Atoi/Chapter01_String03_Atoi.md)
 
   Code: ./Chapter01_String03_Atoi/Chapter01_String03_Atoi.js
+
+- Chapter01_String04_CountAndSay:
+
+  Readme: [Chapter01_String04_CountAndSay](./Chapter01_String04_CountAndSay/Chapter01_String04_CountAndSay.md)
+
+  Code: ./Chapter01_String04_CountAndSay/Chapter01_String04_CountAndSay.js
