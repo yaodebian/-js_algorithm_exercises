@@ -25,3 +25,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String04_CountAndSay](./Chapter01_String04_CountAndSay/Chapter01_String04_CountAndSay.md)
 
   Code: ./Chapter01_String04_CountAndSay/Chapter01_String04_CountAndSay.js
+
+- Chapter01_String05_ReverseChars:
+
+  Readme: [Chapter01_String05_ReverseChars](./Chapter01_String05_ReverseChars/Chapter01_String05_ReverseChars.md)
+
+  Code: ./Chapter01_String05_ReverseChars/Chapter01_String05_ReverseChars.js
