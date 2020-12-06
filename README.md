@@ -31,3 +31,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String05_ReverseChars](./Chapter01_String05_ReverseChars/Chapter01_String05_ReverseChars.md)
 
   Code: ./Chapter01_String05_ReverseChars/Chapter01_String05_ReverseChars.js
+
+- Chapter01_String06_UniqueCharacter:
+
+  Readme: [Chapter01_String06_UniqueCharacter](./Chapter01_String06_UniqueCharacter/Chapter01_String06_UniqueCharacter.md)
+
+  Code: ./Chapter01_String06_UniqueCharacter/Chapter01_String06_UniqueCharacter.js
