@@ -37,3 +37,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String06_UniqueCharacter](./Chapter01_String06_UniqueCharacter/Chapter01_String06_UniqueCharacter.md)
 
   Code: ./Chapter01_String06_UniqueCharacter/Chapter01_String06_UniqueCharacter.js
+
+- Chapter01_String07_Palindrome:
+
+  Readme: [Chapter01_String07_Palindrome](./Chapter01_String07_Palindrome/Chapter01_String07_Palindrome.md)
+
+  Code: ./Chapter01_String07_Palindrome/Chapter01_String07_Palindrome.js
