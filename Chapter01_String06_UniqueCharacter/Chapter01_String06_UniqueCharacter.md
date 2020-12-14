@@ -1,4 +1,4 @@
-# Chapter01_String07_Palindrome
+# Chapter01_String06_UniqueCharacter
 
 ## Question
 

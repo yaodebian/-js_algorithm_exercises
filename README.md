@@ -43,3 +43,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String07_Palindrome](./Chapter01_String07_Palindrome/Chapter01_String07_Palindrome.md)
 
   Code: ./Chapter01_String07_Palindrome/Chapter01_String07_Palindrome.js
+
+- Chapter01_String08_Strstr:
+
+  Readme: [Chapter01_String07_Palindrome](./Chapter01_String07_Palindrome/Chapter01_String08_Strstr.md)
+
+  Code: ./Chapter01_String07_Palindrome/Chapter01_String08_Strstr.js

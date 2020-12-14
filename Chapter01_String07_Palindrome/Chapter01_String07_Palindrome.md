@@ -1,4 +1,4 @@
-# Chapter01_String05_ReverseChars
+# Chapter01_String07_Palindrome
 
 ## Question
 
