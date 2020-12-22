@@ -46,6 +46,12 @@ Record algorithm exercises base on javascript.
 
 - Chapter01_String08_Strstr:
 
-  Readme: [Chapter01_String07_Palindrome](./Chapter01_String07_Palindrome/Chapter01_String08_Strstr.md)
+  Readme: [Chapter01_String08_Strstr](./Chapter01_String08_Strstr/Chapter01_String08_Strstr.md)
 
-  Code: ./Chapter01_String07_Palindrome/Chapter01_String08_Strstr.js
+  Code: ./Chapter01_String08_Strstr/Chapter01_String08_Strstr.js
+
+- Chapter01_String09_LongestCommonPrefix:
+
+  Readme: [Chapter01_String09_LongestCommonPrefix](./Chapter01_String09_LongestCommonPrefix/Chapter01_String09_LongestCommonPrefix.md)
+
+  Code: ./Chapter01_String09_LongestCommonPrefix/Chapter01_String09_LongestCommonPrefix.js
