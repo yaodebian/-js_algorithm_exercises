@@ -55,3 +55,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String09_LongestCommonPrefix](./Chapter01_String09_LongestCommonPrefix/Chapter01_String09_LongestCommonPrefix.md)
 
   Code: ./Chapter01_String09_LongestCommonPrefix/Chapter01_String09_LongestCommonPrefix.js
+
+- Chapter01_String10_LongestPalindromicSubstring:
+
+  Readme: [Chapter01_String10_LongestPalindromicSubstring](./Chapter01_String10_LongestPalindromicSubstring/Chapter01_String10_LongestPalindromicSubstring.md)
+
+  Code: ./Chapter01_String10_LongestPalindromicSubstring/Chapter01_String10_LongestPalindromicSubstring.js
