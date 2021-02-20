@@ -61,3 +61,15 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter01_String10_LongestPalindromicSubstring](./Chapter01_String10_LongestPalindromicSubstring/Chapter01_String10_LongestPalindromicSubstring.md)
 
   Code: ./Chapter01_String10_LongestPalindromicSubstring/Chapter01_String10_LongestPalindromicSubstring.js
+
+- Chapter02_Math01_RomanNumerals:
+
+  Readme: [Chapter02_Math01_RomanNumerals](./Chapter02_Math01_RomanNumerals/Chapter02_Math01_RomanNumerals.md)
+
+  Code: ./Chapter02_Math01_RomanNumerals/Chapter02_Math01_RomanNumerals.js
+
+- Chapter02_Math02_FizzBuzz:
+
+  Readme: [Chapter02_Math02_FizzBuzz](./Chapter02_Math02_FizzBuzz/Chapter02_Math02_FizzBuzz.md)
+
+  Code: ./Chapter02_Math02_FizzBuzz/Chapter02_Math02_FizzBuzz.js
