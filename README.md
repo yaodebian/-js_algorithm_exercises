@@ -73,3 +73,9 @@ Record algorithm exercises base on javascript.
   Readme: [Chapter02_Math02_FizzBuzz](./Chapter02_Math02_FizzBuzz/Chapter02_Math02_FizzBuzz.md)
 
   Code: ./Chapter02_Math02_FizzBuzz/Chapter02_Math02_FizzBuzz.js
+
+- Chapter02_Math03_PrimeNumberCount:
+
+  Readme: [Chapter02_Math03_PrimeNumberCount](./Chapter02_Math03_PrimeNumberCount/Chapter02_Math03_PrimeNumberCount.md)
+
+  Code: ./Chapter02_Math03_PrimeNumberCount/Chapter02_Math03_PrimeNumberCount.js
